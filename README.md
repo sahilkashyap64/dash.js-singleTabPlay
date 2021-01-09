@@ -3,7 +3,7 @@
 
 
 ## Lib used
- index.html   [Credits to Hasan Alibegić](https://github.com/halibegic)
+
 | Lib | Version | Use|
 | ------ | ------ |-----|
 | dash.all.min.js | ^v3.1.2 | to play dash file|
